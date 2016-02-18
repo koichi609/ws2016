@@ -1,0 +1,52 @@
+\begin{thebibliography}{1}
+
+\bibitem{takamura05}
+H.~Takamura, T.~Inui, and M.~Okumura.
+\newblock Extracting semantic orientations of words using spin model.
+\newblock In {\em Proceedings of the 43rd Annual Meeting of the Association for
+  Cumputational Linguistics}, pp. 133--140, 2005.
+
+\bibitem{hamuro2011}
+行信羽室, 克彦岡田.
+\newblock
+  テキストマイニングを用いた株式銘柄センチメントの測定とポートフォリオの構築 :
+  マーケット・ニュートラルアプローチ.
+\newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション, pp.
+  113--118, 2011.
+
+\bibitem{izumi2011}
+和泉潔, 後藤卓, 松井藤五郎.
+\newblock 経済リポートのテキスト分析による金融市場動向推定.
+\newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション, pp.
+  107--111, 2011.
+
+\bibitem{takeuchi2008}
+竹内広宜, 那須川哲哉, 渡辺日出雄.
+\newblock {コールセンターにおけるビジネス会話のマイニング}.
+\newblock 人工知能学会論文誌, Vol.~23, No.~6, pp. 384--391, 2008.
+
+\bibitem{sakai2014}
+酒井浩之, 坂地泰紀.
+\newblock
+  企業webページを対象とした企業検索システムのための検索クエリに関連するタグの%
+推定.
+\newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション, pp.
+  41--45, 2014.
+
+\bibitem{nasukawa2012}
+那須川哲哉.
+\newblock テキストマイニングの可能性～有用性と研究の発展性～.
+\newblock 言語理解とコミュニケーション研究会基調講演, 2012.
+
+\bibitem{nasukawa04}
+那須川哲哉, 金山博.
+\newblock 文脈一貫性を利用した極性付評価表現の語彙獲得.
+\newblock  情報処理学会第162回自然言語処理研究会報告, pp. 109--116, 2004.
+
+\bibitem{usui2014}
+駿希薄井, 博哉吉田.
+\newblock ニュース記事を用いたセンチメント分析に基づく企業評価システムの開発.
+\newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション, pp.
+  1--4, 2014.
+
+\end{thebibliography}
