@@ -1,10 +1,15 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{takamura05}
 H.~Takamura, T.~Inui, and M.~Okumura.
 \newblock Extracting semantic orientations of words using spin model.
 \newblock In {\em Proceedings of the 43rd Annual Meeting of the Association for
   Cumputational Linguistics}, pp. 133--140, 2005.
+
+\bibitem{ashihara2012}
+史敏葦原, 泰知木村, 健治荒木.
+\newblock 節の分類情報を用いた地方議会会議録における要求・要望表現抽出.
+\newblock pp. 1--6, 2012.
 
 \bibitem{hamuro2011}
 行信羽室, 克彦岡田.
@@ -14,11 +19,49 @@ H.~Takamura, T.~Inui, and M.~Okumura.
 \newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション, pp.
   113--118, 2011.
 
+\bibitem{maruyama2003}
+丸山岳彦, 柏岡秀紀, 熊野正, 田中英輝.
+\newblock 節境界自動検出ルールの作成と評価.
+\newblock  言語処理学会第九回年次大会発表論文集, pp. 517--520, 2003.
+
+\bibitem{ohmori2013}
+大森寛文.
+\newblock 電機業界における経営課題の認識構造と実行動に関する知識の発見 :
+  知識の構造化論とテキストマイニングの融合.
+\newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション, pp.
+  83--88, 2013.
+
+\bibitem{miura2015}
+三浦貴大, 小林正朋, 檜山敦, 高木啓伸, 廣瀬通孝.
+\newblock 高齢者の履歴書からの特徴語抽出によるスキルの発見とマッチング.
+\newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション,
+  2015.
+
+\bibitem{yamashita2014}
+山下貴範, 若田好史, 濱井敏, 中島康晴, 岩本幸英, フラナガンブレンダン, 中島直樹,
+  廣川佐千男.
+\newblock 手術記録から術後在院日数を特徴付ける重要因子抽出モデルの構築.
+\newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション, pp.
+  1--6, 2014.
+
+\bibitem{ohyama2014}
+大山恭史, 池田望.
+\newblock テキストマイニングによる介護施設の利用者受入要因の分析 :
+  若年性認知症患者の受入調査から.
+\newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション, pp.
+  7--9, 2014.
+
 \bibitem{izumi2011}
 和泉潔, 後藤卓, 松井藤五郎.
 \newblock 経済リポートのテキスト分析による金融市場動向推定.
 \newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション, pp.
   107--111, 2011.
+
+\bibitem{fukuda2014}
+福田賢一郎, 濱崎雅弘, 福原知宏, 藤井亮嗣, 堀田美晴, 西村拓一.
+\newblock 介護現場における申し送り情報の分析 : 業務改善に向けて.
+\newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション, pp.
+  11--16, 2014.
 
 \bibitem{takeuchi2008}
 竹内広宜, 那須川哲哉, 渡辺日出雄.
@@ -33,20 +76,46 @@ H.~Takamura, T.~Inui, and M.~Okumura.
 \newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション, pp.
   41--45, 2014.
 
+\bibitem{hirokawa2013}
+廣川佐千男.
+\newblock 文単位の有価証券報告書分析による利益伸び率の予測.
+\newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション, pp.
+  77--82, 2013.
+
+\bibitem{sugihara2012}
+杉原大悟, 大熊智子, 佐竹功次, 三浦康秀, 服部圭悟, 増市博.
+\newblock 営業支援システム内に蓄積されたテキストデータからの課題記述文抽出.
+\newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション, pp.
+  7--12, 2012.
+
 \bibitem{nasukawa2012}
 那須川哲哉.
 \newblock テキストマイニングの可能性～有用性と研究の発展性～.
-\newblock 言語理解とコミュニケーション研究会基調講演, 2012.
+\newblock 電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション,
+  基調講演, 2012.
 
 \bibitem{nasukawa04}
 那須川哲哉, 金山博.
 \newblock 文脈一貫性を利用した極性付評価表現の語彙獲得.
 \newblock  情報処理学会第162回自然言語処理研究会報告, pp. 109--116, 2004.
 
+\bibitem{shimaoka2015}
+島岡聖世, 佐藤祥多, 佐々木彬, 稲田和明, 関根聡, 乾健太郎.
+\newblock 条件付き確率場を用いた新聞報道からの未来予測情報抽出.
+\newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション,
+  2015.
+
 \bibitem{usui2014}
 駿希薄井, 博哉吉田.
 \newblock ニュース記事を用いたセンチメント分析に基づく企業評価システムの開発.
 \newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション, pp.
   1--4, 2014.
+
+\bibitem{iwami2016}
+岩見麻子, 木村道徳, 松井孝典, 熊澤輝一.
+\newblock 大規模パブリックコメントの意見構造の把握と可視化　～
+  「エネルギー・環境に関する選択肢に対する御意見の募集」を事例として.
+\newblock  電子情報通信学会技術研究報告. NLC, 言語理解とコミュニケーション,
+  2015.
 
 \end{thebibliography}
